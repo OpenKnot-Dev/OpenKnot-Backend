@@ -1,0 +1,9 @@
+${AnsiColor.BRIGHT_CYAN}             =++++        *            ____                   _  __            _
+${AnsiColor.BRIGHT_CYAN}           -=++   +++  =++**          / __ \                 | |/ /           | |
+${AnsiColor.BRIGHT_CYAN}          --++      -===++*          | |  | |_ __   ___ _ __ | ' / _ __   ___ | |_
+${AnsiColor.BRIGHT_CYAN}          -+++    *+--=+=            | |  | | '_ \ / _ \ '_ \|  < | '_ \ / _ \| __|
+${AnsiColor.BRIGHT_CYAN}          --++    ****++             | |__| | |_) |  __/ | | | . \| | | | (_) | |_
+${AnsiColor.BRIGHT_CYAN}           -+++   ***++++==           \____/| .__/ \___|_| |_|_|\_\_| |_|\___/ \__|
+${AnsiColor.BRIGHT_CYAN}           --+++    *++++===                | |
+${AnsiColor.BRIGHT_CYAN}            --+++++   ++=====               |_|
+Powered by Spring Boot ${spring-boot.version}
